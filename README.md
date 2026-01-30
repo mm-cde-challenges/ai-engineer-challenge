@@ -122,7 +122,7 @@ please contact your healthcare provider immediately."
 
 ## Deliverables
 
-Please submit a link to your GitHub repository. **Keep the repository private** and send an invite to **johannes.unruh@mamahealth.com**.
+Please submit a link to your GitHub repository. **Keep the repository private** and send an invite to **johannes.unruh@mamahealth.io** (tj-mm) and **lorenzo.famiglini@mamahealth.io** (lollomamahealth) a short notification email to **mattia.munari@mamahealth.io**.
 
 The repository should contain:
 
