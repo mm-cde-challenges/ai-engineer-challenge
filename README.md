@@ -148,3 +148,4 @@ Have extra time? Want to impress us further? Consider one of the following (thes
 - **Prompt Versioning:** Implement a system to version and A/B test different prompt variations.
 - **Guardrails Implementation:** Add explicit safety checks for detecting and handling requests for medical advice that should be escalated to a human.
 - **Observability:** Add logging/tracing to track which agents handled which queries and measure response quality.
+- **Use [`jmux`](https://github.com/jaunruh/jmux)**: Use the `jmux` package to retrieve partial LLM results early and take advantage of the partial results to optimize code flow.
